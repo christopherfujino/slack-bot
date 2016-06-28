@@ -20,5 +20,15 @@
       "I got involved with a lot of different medications, and you can listen to my records go downhill as the amount of medication went up.",
       "People say, \"sign this\" and I just say \"no.\""
     ]
+  },
+  "brendanbot": {
+    "name": "brendanbot",
+    "quotes": [
+      "It's time to get back to innovating in the browser space.",
+      "We're going to learn from Python. JavaScript is pretty close to Python.",
+      "I think there is an important point to make here and that is that you can argue stagnation was good on the browser side.",
+      "If the web can be evolved to include the missing APIs and have better performance, developers won't need to go beyond the web.",
+      "We're adding a lot of fun features."
+    ]
   }
 }
