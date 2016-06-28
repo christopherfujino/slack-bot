@@ -4,7 +4,7 @@ let Botkit = require('botkit'),
     controller = Botkit.slackbot();
 
   const persona = personas['brendanbot'];  // change to access different persona
-  const token = JSON.parse(fs.readFileSync('tokens.json', 'utf8'))[persona.name]['token'];
+  const token = JSON.parse(fs.readFileSync('tokens.json', 'utf8'))['js']['token'];
   let bot = controller.spawn({'token' : token});
 
   bot.startRTM(function(err){
