@@ -1,0 +1,14 @@
+{
+  "name": "ringobot",
+  "version": "0.1.0",
+  "description": "Ringo Slack Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Christopher Fujino",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
